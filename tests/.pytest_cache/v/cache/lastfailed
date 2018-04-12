@@ -1,0 +1,10 @@
+{
+  "test_stackoverflow_jobs.py::test_bad_url": true,
+  "test_stackoverflow_jobs.py::test_get_url_bad": true,
+  "test_stackoverflow_jobs.py::test_good_url": true,
+  "test_stackoverflow_jobs.py::test_number_of_rows": true,
+  "test_stackoverflow_jobs.py::test_scrape_jobs": true,
+  "test_stackoverflow_jobs.py::test_scrape_jobs[https://stackoverflow.com/jobs?sort=i&l=Boston%2C+MA%2C+USA&d=50&u=Miles-https://stackoverflow.com/jobs?sort=i&l=Boston%2C+MA%2C+USA&d=50&u=Miles0]": true,
+  "test_stackoverflow_jobs.py::test_scrape_jobs[https://stackoverflow.com/jobs?sort=i&l=Boston%2C+MA%2C+USA&d=50&u=Miles-https://stackoverflow.com/jobs?sort=i&l=Boston%2C+MA%2C+USA&d=50&u=Miles1]": true,
+  "test_stackoverflow_jobs.py::test_scrape_jobs[https://stackoverflow.com/jobs?sort=i&l=Boston%2C+MA%2C+USA&d=50&u=Miles-https://stackoverflow.com/jobs?sort=i&l=Boston%2C+MA%2C+USA&d=50&u=Miles2]": true
+}
